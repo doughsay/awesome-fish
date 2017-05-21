@@ -24,6 +24,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 ### Simple
 - [Boss](https://github.com/fisherman/boss)
 - [Cyber](https://github.com/fisherman/cyber)
+- [Doughsay](https://github.com/doughsay/omf-theme-doughsay)
 - [Simple](https://github.com/fisherman/simple)
 - [Sol](https://github.com/fisherman/sol)
 - [Mono](https://github.com/fisherman/mono)
