@@ -7,6 +7,7 @@ A curated list of awesome tools, prompts and other cool nuggets for the amazing 
 - [Fundle](https://github.com/tuvistavie/fundle)
 
 ## Plugins
+- [ASDF](https://github.com/doughsay/omf-asdf) - ASDF version manager plugin.
 - [Bass](https://github.com/edc/bass) - Make Bash utilities usable in fish.
 - [Debug](https://github.com/fisherman/debug) - Conditional debug logger.
 - [DockerCompose](https://github.com/brgmnn/fish-docker-compose) - Docker Compose Autocompletions.
